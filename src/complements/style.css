@@ -1,0 +1,52 @@
+
+.fondo {
+  background-image: url(../assets/imagen14.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.fondo2 {
+  background-image: url(../assets/fondo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.card{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid black;
+  padding: 40px;
+  background-color: white;
+  text-align: center;
+  font-size: 22px;
+}
+.text{
+  align-items: center;
+}
+
+.tab {  
+  margin-bottom: 15px;
+  border-color: grey;  
+}
+
+.top{
+  background-color:#283593;
+  padding-top: 32px;
+  padding-bottom: 16px;
+}
+
+.cardStyle {
+  justify-items: center;
+  margin: 15px ;
+  width: 750px;
+  height: 500px;
+}
+
